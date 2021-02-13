@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="action_home">Home</string>
+    <string name="action_add_contact">Add Contact</string>
+    <string name="title_activity_create_list">Add Contact</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="home">Home</string>
+</resources>
